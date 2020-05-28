@@ -14,7 +14,7 @@ In third step, it calculates the 'tf' , 'idf' , and finally 'tf-idf' values of t
 This is an example of input text :</br>
 ![](input.JPG)
 </br></br>
-This is an example of english words tokenized : </br>
+This is an example of English words tokenized : </br>
 ![](1.JPG)
 </br></br>
 This is an example of Persian words tokenized.
