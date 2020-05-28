@@ -10,15 +10,18 @@ Then it tokenizes the links inside the texts and at the end it tokenizes the num
 (All done by regular expression and just its not perfect and includes some missings but accuracy is over 98%)</br>
 In second step,it sorts the tokens (i used bubble sort for persian words sorting, it was from O(n^2) so
 i just used simple python sort and i will fix that in future developments).</br>
-In third step, it calculates the 'tf' , 'idf' , and finally 'tf-idf' values of the words based on the input texts.</br>
-It is an example of input text :</br></br>
+In third step, it calculates the 'tf' , 'idf' , and finally 'tf-idf' values of the words based on the input texts.</br></br>
+This is an example of input text :</br>
 ![](input.JPG)
-This is an example of english words tokenized : </br></br>
+</br></br>
+This is an example of english words tokenized : </br>
 ![](1.JPG)
+</br></br>
 This is an example of Persian words tokenized.
 ```diff
-- my cisual studio code doesnt supports Persian encode so the words showed reversed like this !
+- My visual studio code doesnt supports Persian encode so the words showed reversed like this !
 ```
 ![](2.JPG)
+</br></br>
 And finally this is an example of Links tokenized:</br></br>
 ![](3.JPG)
