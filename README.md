@@ -1,6 +1,6 @@
 # wordTokenizer_tfidfCalculator_withPersianSupport
 ```diff
-+ Word(persian + english) , Link , Number Tokenizer With TFIDF Calculator
++ Word(persian + english), Link, Number Tokenizer With TFIDF Value Calculator
 ```
 A project for tokenizign words(including Persian), links, numbers from texts and calculating the 'tfidf' values.</br>
 Import your texts(yes it supports multy text files) by writing your texts allocated foldor address.</br>
